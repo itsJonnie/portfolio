@@ -1,0 +1,25 @@
+body {
+    background-color: #000000; /* Black background */
+    color: #ffffff; /* White text color */
+    font-family: 'Arial', sans-serif; /* Font style */
+}
+
+.app-container {
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #f39c12; /* Gold color for headings */
+}
+
+button {
+    background-color: #1a1a1a; /* Darker button background */
+    color: #ffffff; /* White button text */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #333333; /* Darker button on hover */
+} 
